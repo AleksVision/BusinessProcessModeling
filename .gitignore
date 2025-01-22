@@ -89,3 +89,7 @@ public
 
 # MacOS files
 .DS_Store
+~$*.docx
+# Microsoft Office временные файлы
+~$*.docx
+~$*.doс
